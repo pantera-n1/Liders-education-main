@@ -1,0 +1,6 @@
+html{
+    scrollbar-width:normal;
+    scrollbar-color: white black;
+    scrollbar-arrow-color: aqua;
+    scrollbar-gutter:inherit;
+}
